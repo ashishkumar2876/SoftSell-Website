@@ -1,8 +1,38 @@
-# React + Vite
+# 🚀 SoftSell - Smart Software Resale Marketing Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SoftSell is a modern, responsive one-page marketing website built with React and Tailwind CSS. It includes a smart AI-powered chat widget using OpenAI's GPT-3.5-turbo to assist users and boost engagement.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Live Demo
+
+🔗 [Live Site on Vercel](https://soft-sell-website-git-main-ashish-kumars-projects-162366d2.vercel.app)
+
+---
+
+## 🧠 Features
+
+- ⚡️ Lightning-fast React (Vite) frontend
+- 🎨 Styled with Tailwind CSS
+- 🤖 Integrated OpenAI-powered AI chat assistant
+- 📱 Fully responsive on all screen sizes
+- 🎛️ Toggleable AI widget with smooth user experience
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js + Vite
+- **Styling**: Tailwind CSS
+- **AI**: OpenAI GPT-3.5-turbo (via fetch API)
+- **Hosting**: Vercel
+- **Version Control**: Git & GitHub
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ashishkumar2876/softsell-website.git
+
